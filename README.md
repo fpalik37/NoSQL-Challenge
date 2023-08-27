@@ -1,5 +1,6 @@
 # NoSQL-Challenge
 Eat Safe, Love – Module 12
+
 For the ‘Eat Safe, Love’ project, MongoDB is used to create a NoSQL data repository.  Data consisting of food hygiene ratings of a variety of food vendors is provided by the JSON file “establishments”.
 This data is imported and analyzed with the construction of the following two Python programs via a Jupyter Notebook platform:
 1)	NoSQL_setup.ipynb 
